@@ -1,3 +1,4 @@
+```
 # Social Media Fake Account Detection
 
 This project implements a fake account detection system using deep learning models trained on social media data.
