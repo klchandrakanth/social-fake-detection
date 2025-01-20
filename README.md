@@ -22,7 +22,6 @@ social-fake-detection/
 ## Installation
 
 Clone the repository:
-   ```bash
    git clone https://github.com/klchandrakanth/social-fake-detection.git
    cd social-fake-detection
 
